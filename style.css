@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    text-align: center;
+    background-image: url();
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color:rgb(170, 122, 247);
+    color: black;
+    padding: 10px;
+}
+
+section {
+    margin: 20px 0;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    background-color: rgb(170, 122, 247);
+    color: black;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(193, 158, 250);
+    padding: 10px;
+    margin-top: 0px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 0px;
+}
+nav a:hover{
+    text-decoration: underline;
+cursor: crosshair;
+color: white;
+}
+h2:hover{
+    color: black;
+
+}
+.Imagem{
+  max-width: 90%;
+    height: auto;
+
+}
+.frame{
+    max-width: 90%;
+    height: 90%;
+}
+p{
+font-size: 30px;
+padding: 50px;
+
+}
